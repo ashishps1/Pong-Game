@@ -1,4 +1,5 @@
 #ashish_singh
+# P.S. run it on www.code-skulptor.com
 
 import simplegui
 import random
