@@ -1,5 +1,5 @@
 #ashish_singh
-# P.S. run it on www.code-skulptor.com
+# P.S. run it on www.code-skulptor.org
 
 import simplegui
 import random
